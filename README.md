@@ -9,6 +9,9 @@
 ## Description
 The Exercise Tracker project is an API-based online application that allows users to enter their workouts and measure their fitness improvement. This project offers user creation, exercise logging, and exercise log retrieval functions.
 
+![image](https://github.com/obedNuertey1/backend-project-4/assets/101027384/8156ae07-9328-4e06-8e98-03bc65dec21d)
+
+
 ## Response
 Your response should have the following structure.
 
